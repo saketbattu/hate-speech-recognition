@@ -1,0 +1,1 @@
+The results.txt file contains results like accuracy, precision, recall and f1-score.
